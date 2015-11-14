@@ -5,13 +5,12 @@ Empty template for start work with scalatra on jetty server
 
 [Scalatra home](http://www.scalatra.org/)
 
-* scala=2.11.7
-* sbt=0.13.8
+* scala - 2.11.7
+* sbt - 0.13.8
 
-
-* scalatra=2.3.1
-* jetty=9.2.10.v20150310
-* servlet-api=3.1.0
-* scalatest=2.2.5
+* scalatra - 2.3.1
+* jetty - 9.2.10.v20150310
+* servlet-api - 3.1.0
+* scalatest - 2.2.5
 
 
