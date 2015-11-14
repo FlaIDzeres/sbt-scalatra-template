@@ -14,7 +14,7 @@ Empty template for start work with scalatra on jetty server
 * servlet-api - 3.1.0
 * scalatest - 2.2.5
 
-For start server execute 'container:start' in sbt console, stop 'container:stop'. 
+For start server run JettyEmbedded as main.
 After server started use url for get result.
 
 [localhost:8080/hi](localhost:8080/hi)
