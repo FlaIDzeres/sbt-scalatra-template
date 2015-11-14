@@ -31,4 +31,6 @@ If you want get jar, execute 'assembly', after that you get jar in your target d
 
 You can run it 'java -jar $JarName'
 
+If you have questions, let me know.
+
 
