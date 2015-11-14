@@ -2,7 +2,7 @@ import org.eclipse.jetty.server.Server
 import org.eclipse.jetty.webapp.WebAppContext
 
 /**
-  * Created by FlaID on 11/15/2015.
+  * Created by FlaIDzeres on 11/15/2015.
   */
 object JettyEmbedded extends App {
   val server = new Server(8080)
