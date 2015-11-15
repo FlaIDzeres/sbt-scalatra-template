@@ -5,7 +5,7 @@ import javax.servlet.ServletContext
 import org.scalatra._
 
 /**
- * Created by FlaID on 11/13/2015.
+ * Created by FlaIDzeres on 11/13/2015.
  */
 
 class ScalatraBootstrap extends LifeCycle {
