@@ -5,7 +5,7 @@ Empty template for start work with scalatra on jetty server
 
 [Scalatra home](http://www.scalatra.org/)
 
-* scala - 2.11.7
+* scala - 2.10.6
 * sbt - 0.13.8
 
 
