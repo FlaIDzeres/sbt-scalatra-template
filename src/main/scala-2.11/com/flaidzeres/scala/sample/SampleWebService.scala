@@ -1,4 +1,4 @@
-package com.faldizeres.scala.sample
+package com.flaidzeres.scala.sample
 
 import org.scalatra._
 

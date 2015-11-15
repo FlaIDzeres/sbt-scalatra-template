@@ -2,7 +2,7 @@ import org.scalatra.sbt.ScalatraPlugin
 
 lazy val `sbt-scalatra-template` = (project in file("."))
   .enablePlugins(XwpJetty)
-  .settings(ScalatraPlugin.scalatraSettings)
+  .settings(ScalatraPlugin.scalatraFullSettings)
 
 name := "sample-project"
 
@@ -10,7 +10,7 @@ version := "1.0"
 
 scalaVersion := "2.11.7"
 
-mainClass := Some("JettyEmbedded")
+mainClass := Some("com.flaidzeres.scala.sample.JettyEmbedded")
 
 libraryDependencies ++= Seq(
   "org.scalatra" %% "scalatra" % "2.3.1",
@@ -19,6 +19,4 @@ libraryDependencies ++= Seq(
   "ch.qos.logback" % "logback-classic" % "1.1.3",
   "org.scalatest" %% "scalatest" % "2.2.5" % "test"
 )
-
-
 
